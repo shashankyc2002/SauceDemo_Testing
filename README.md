@@ -11,14 +11,6 @@ This project automates key workflows on https://www.saucedemo.com using Selenium
 pip install selenium
 📁 Folder Structure
 
-saucedemo-automation/
-│
-├── test_login.py
-├── test_add_to_cart.py
-├── test_checkout.py
-├── README.docx
-└── screenshots/ (optional)
-
 🚀 Run Instructions
 To run the scripts, open your terminal or command prompt in the project folder and execute:
 python test_login.py
